@@ -26,4 +26,4 @@ Here's a list of images in this project:
 ![plan-dark-wallpaper](./plan-dark-wallpaper.jpg "plan-dark-wallpaper")
 ![robot-and-bird](./robot-and-bird.jpg "robot-and-bird")
 ![simple-balck-and-white-logo](./simple-balck-and-white-logo.png "simple-balck-and-white-logo")
-!["white-wall-with blue-couch-wallpaper"](./white-wall-with blue-couch-wallpaper.jpg "white-wall-with blue-couch-wallpaper")
+!["white-wall-with blue-couch-wallpaper"]("./white-wall-with blue-couch-wallpaper.jpg" "white-wall-with blue-couch-wallpaper")
